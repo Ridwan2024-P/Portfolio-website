@@ -1,0 +1,43 @@
+
+    @media(max-width: 600px) {
+         .social-media-icon-container{
+            flex-direction: column;
+             
+            margin-top: 80px;
+        }
+        .social-icon{
+           margin: 10px;
+            
+        }
+        .navbar-brand .logo{
+            font-weight: 700;
+            font-size: 14px;;
+        } 
+         .carousel-caption h2{
+            font-weight: 600;
+            font-size: 24px;
+           
+        }
+        .info-header{
+            font-size: 18px;
+            text-align: left;
+        }
+        .info-text{
+            font-size: 15px;
+            text-align: left;
+        }
+        .sociall-media-icon-container{
+            flex-direction: column;
+             
+            margin-top: 80px;
+        }
+        .sociall-icon{
+            margin: 10px;
+             
+         }
+        
+        .sociall-icon-svg {
+            width: 15; /* Further adjust size */
+            height: 15;
+        }
+    }

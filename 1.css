@@ -1,0 +1,22 @@
+.cardd:hover {
+    transform: scale(1.05) translateY(-10px); /* Slightly larger and moved up */
+   
+}
+.btn{
+   width: 100%;
+   color: rgb(15, 87, 149);
+   font-weight: bolder;
+  
+    border-color: black;
+    
+    
+}
+.btn:hover{
+    width: 100%;
+    color:blue;
+    
+   
+     border-color: black;
+     
+     
+ }
